@@ -36,6 +36,11 @@ The analysis focuses on:
 3. **Customer Segments**: Understanding purchasing behaviors across different segments (e.g., Corporate, Consumer).
 4. **Shipping and Returns**: Analyzing the impact of shipping modes and return patterns on profitability.
 
+## Visuals of The Dashboard
+
+![Screenshot (22)](https://github.com/user-attachments/assets/dfb4a523-3308-4c36-81e1-d96c69ee6e3c)
+![Screenshot (23)](https://github.com/user-attachments/assets/234b86ac-3376-4929-bd61-32dbbe306e1e)
+
 ## Project Workflow
 1. **Data Cleaning**: Addressing missing values, removing unused columns (`ind1`, `ind2`), and ensuring consistent formatting.
 2. **Exploratory Data Analysis**: Using Power BI to visualize trends and patterns in sales, profit, and customer behavior.
